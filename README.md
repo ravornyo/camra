@@ -25,8 +25,6 @@ See the [Releases](../../releases) page for the latest build.
 Downloads are available for:
 
 - Windows (x86_64)
-- macOS (x86_64 and Apple Silicon)
-- Linux (x86_64)
 
 No separate Java installation is required — each build bundles a matching Java runtime.
 

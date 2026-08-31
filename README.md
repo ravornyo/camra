@@ -1,4 +1,3 @@
-
 <img width="1216" height="818" alt="Window2" src="https://github.com/user-attachments/assets/6e95599e-a3ec-46d2-94b7-bca7d1441f86" />
 
 # Camra
@@ -50,3 +49,4 @@ For bugs or feature requests, please open an issue in this repository.
 <img width="511" height="424" alt="AddWizardPage1" src="https://github.com/user-attachments/assets/ad17edfe-e6e5-40da-82c2-05a8c0fd914a" />
 <img width="638" height="542" alt="Settings" src="https://github.com/user-attachments/assets/262f6b5c-8a24-4154-bdd1-5481dfe4c8af" />
 <img width="756" height="542" alt="SettingsRecordSchedule" src="https://github.com/user-attachments/assets/207a4d61-7aa2-48ed-9251-2c97ce6cb678" />
+<img width="1216" height="818" alt="Window3" src="https://github.com/user-attachments/assets/fa7a5b21-1061-4b88-b214-71e52581925b" />

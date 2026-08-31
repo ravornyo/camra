@@ -1,3 +1,6 @@
+
+<img width="1216" height="818" alt="Window2" src="https://github.com/user-attachments/assets/6e95599e-a3ec-46d2-94b7-bca7d1441f86" />
+
 # Camra
 
 Camra is a desktop viewer and recorder for ONVIF-compatible network cameras. It provides a live multi-camera grid for monitoring, plus a separate perspective for browsing and playing back recorded video.
@@ -41,3 +44,9 @@ Camra checks for updates itself, from within the app: **Help → Check for Updat
 ## Support
 
 For bugs or feature requests, please open an issue in this repository.
+
+<img width="511" height="424" alt="AddWizardPage3" src="https://github.com/user-attachments/assets/0653ae21-7930-49f9-a41f-ac13e1c2919e" />
+<img width="511" height="424" alt="AddWizardPage2" src="https://github.com/user-attachments/assets/547206b0-cfeb-4f21-bbb8-225ccc3cba64" />
+<img width="511" height="424" alt="AddWizardPage1" src="https://github.com/user-attachments/assets/ad17edfe-e6e5-40da-82c2-05a8c0fd914a" />
+<img width="638" height="542" alt="Settings" src="https://github.com/user-attachments/assets/262f6b5c-8a24-4154-bdd1-5481dfe4c8af" />
+<img width="756" height="542" alt="SettingsRecordSchedule" src="https://github.com/user-attachments/assets/207a4d61-7aa2-48ed-9251-2c97ce6cb678" />
